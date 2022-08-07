@@ -1,5 +1,6 @@
 # spacex
 SpaceX web app - React exercise
+
 Here is the demo: https://codesandbox.io/s/spacex-v05ud4
 
 Created a react application that utilizes the Space X GraphQL API and provides the following views:
