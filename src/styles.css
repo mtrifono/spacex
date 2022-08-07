@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.launch {
+  list-style-type: none;
+  margin-top: 4rem;
+  padding-bottom: 2rem;
+  border-bottom: 2px solid green;
+}
+
+.notFound {
+  color: red;
+}
+
+button {
+  cursor: pointer;
+}
+
+.dropdown {
+  margin-top: 1rem;
+}
